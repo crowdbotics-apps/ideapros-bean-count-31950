@@ -963,6 +963,11 @@
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
+"@modules/privacy-policy@file:./modules/privacy-policy":
+  version "1.0.1"
+  dependencies:
+    react-native-render-html "^5.1.0"
+
 "@modules/splash@file:./modules/splash":
   version "1.0.0"
 
